@@ -1,0 +1,7 @@
+<div></div>
+	{/*<div>
+	<button onClick={this.clickHandler.bind(this)}>add one</button>
+	<button onClick={this.clickHandler}>add one</button>
+	<button onClick={this.clickHandler.bind(this,'Hello World')}>add one</button>
+	<span>{this.state.counter}</span>
+	</div>*/}
