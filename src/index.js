@@ -3,7 +3,12 @@ import ReactDOM from 'react-dom';
 // import './index.css';
 // import App from './App';
 // import Method from './Method';
-import Digitalclock from './Digitalclock';
+
+// import CustomRoute from './Router';
+
+import Reduxuse from './Reduxuse';
+
+
 // import registerServiceWorker from './registerServiceWorker';
 
 // ReactDOM.render(<App />, document.getElementById('root'));
@@ -11,5 +16,5 @@ import Digitalclock from './Digitalclock';
 
 
 ReactDOM.render(
-	<Digitalclock />
+	<Reduxuse />
 	, document.getElementById('root'));
